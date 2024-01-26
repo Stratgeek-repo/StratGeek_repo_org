@@ -1,4 +1,5 @@
 import random
+import pandas
 
 def computer_guess(x):
     low = 1
