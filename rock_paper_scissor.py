@@ -1,4 +1,5 @@
 import random
+import numpy
 
 def rps():
     user  = input("Enter your choice!, 'r' for rock , 'p' for paper, 's' for scissors \n")
