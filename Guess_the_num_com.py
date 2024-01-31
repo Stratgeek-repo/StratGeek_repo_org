@@ -2,6 +2,7 @@ import random
 import requests
 import pandas
 list = []
+list = []
 def guess(x):
     random_number = random.randint(1,x)
     guess = 0
